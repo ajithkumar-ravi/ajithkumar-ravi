@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AJITHKUMAR</h1>
 <h3 align="center">A passionate frontend web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f736f757263652f3036663231613136313932313931392e363363643738383764306137302e676966"> 
+<img align="right" alt="Coding" width="400" src="https://lottiefiles.com/free-animation/keyboard-typing-ETm4ELrLvt"> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajithkumar-ravi&label=Profile%20views&color=0e75b6&style=flat" alt="ajithkumar-ravi" /> </p>
