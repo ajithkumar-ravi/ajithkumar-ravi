@@ -17,9 +17,9 @@
 
 <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="270" alt="Code Animation" />
 
-- 🔭 I build blazing-fast Web Design
-- 🧪 Exploring: `React`, `AI Integration`,   
-- 💬 Ask me about: `React`, `JavaScript`, `TypeScript`,
+- 🔭 I build blazing-fast Web Applications
+- 🧪 Exploring: `React`, `AI Integration`
+- 💬 Ask me about: `JavaScript`, `React`,  `TypeScript`
 - 🧠 Fun Fact: I Learn Tech, But my Mom still asks me to fix the TV remote
 
 ---
