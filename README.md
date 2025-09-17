@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="center">
-  <strong>🚀 Junior Software Dev <span style="color:#00bcd4;"></span> | Focused on Dev, Design & Systems ⚙️</strong>
+  <strong>🚀 Junior Software Dev <span style="color:#00bcd4;"></span> | Focused on Full-Stack Development ⚙️</strong>
 </h3>
 
 ---
