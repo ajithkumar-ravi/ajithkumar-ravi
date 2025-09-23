@@ -5,7 +5,7 @@
 <p align="center">
   <!-- Replace this image URL if it expires -->
   <img src="https://i.pinimg.com/originals/78/da/42/78da42c5b6907b2ead1eedde2f1aaf75.gif" width="300" />
-</p> 
+</p>
 
 <h3 align="center">
   <strong>🚀 Junior Software Dev <span style="color:#00bcd4;"></span> | Focused on Full-Stack Development ⚙️</strong>
