@@ -30,6 +30,7 @@
   <a href="https://linkedin.com/in/ajithkumar-be/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:itsajith005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://instagram.com/itsajith00" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://replit.com/@itsajith005" target="_blank"><img src="https://skillicons.dev/icons?i=replit" /></a>
 </p>
 
 ---
