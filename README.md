@@ -44,7 +44,7 @@
 
 ### 🛠️ Tools I Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,replit,pr" />
+  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,replit,pr,capcut" />
 </p>
 
 
