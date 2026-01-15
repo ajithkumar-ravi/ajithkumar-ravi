@@ -50,6 +50,14 @@
 
 ---
 
+## 💻 My Gear Setup
+
+| 💻 Laptop              | 🧠 Processor     | 🎮 Graphics         | 🔋 RAM |
+|------------------------|------------------|---------------------|--------|
+| Lenovo IdeaPad Slim 3  | Ryzen 5 5500U    | Radeon Integrated   | 16GB    |
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
