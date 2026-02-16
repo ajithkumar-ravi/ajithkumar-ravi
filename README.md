@@ -54,7 +54,7 @@
 
 | 💻 Laptop              | 🧠 Processor     | 🎮 Graphics         | 🔋 RAM |
 |------------------------|------------------|---------------------|--------|
-| Lenovo IdeaPad Slim 3  | Ryzen 5 5500U    | Radeon Integrated   | 16GB    |
+| Lenovo IdeaPad Slim 3  | Ryzen 5 5500    | Radeon Integrated   | 16GB    |
 
 ---
 
