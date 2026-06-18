@@ -38,13 +38,13 @@
 
 ### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,mongodb,nodejs" />
 </p>
 
 
 ### 🛠️ Tools I Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,replit,pr,notion" />
+  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,replit,pr,notion,postman" />
 </p>
 
 
