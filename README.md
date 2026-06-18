@@ -58,15 +58,32 @@
 
 ---
 
-## 📊 GitHub Stats
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB STATISTICS                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajithkumar-ravi&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=ajithkumar-ravi&theme=github-dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajithkumar-ravi&theme=github_dark&hide_border=false&layout=compact" />
-</p>
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=ajithkumar-ravi&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=a855f7&icon_color=a855f7&text_color=e2e8f0&border_color=1e1e2e&include_all_commits=true&count_private=true" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajithkumar-ravi&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=a855f7&text_color=e2e8f0&border_color=1e1e2e" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<a href="https://github.com/ajithkumar-ravi">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajithkumar-ravi&theme=midnight-purple&hide_border=true&background=0a0a0f&stroke=a855f7&ring=a855f7&fire=c084fc&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=a855f7&sideLabels=a855f7&dates=6b7280" width="70%" />
+</a>
+
+</div>
 
 ---
 
