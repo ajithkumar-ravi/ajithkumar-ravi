@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ajithkumar-be/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:itsajith005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto:ajithkumarravi.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://instagram.com/itsajith00" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
@@ -44,7 +44,7 @@
 
 ### 🛠️ Tools I Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,replit,pr,notion,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,replit,pr,notion,postman,vite" />
 </p>
 
 
