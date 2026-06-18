@@ -70,11 +70,22 @@
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       TROPHIES                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajithkumar-ravi&theme=algolia&no-frame=false&no-bg=true&margin-w=15" />
-</p>
+## 🏆 Achievements
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=ajithkumar-ravi&theme=discord&no-frame=true&no-bg=true&column=8&margin-w=10&margin-h=10&title_color=a855f7" alt="Trophies" />
+</a>
+
+<br><br>
+<sub><i>Trophies auto-refresh via the GitHub Trophy API</i></sub>
+
+</div>
 
 ---
 
@@ -106,8 +117,4 @@
 
 ---
 
-## 🔝 Most Contributed Repos
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ajithkumar-ravi&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
